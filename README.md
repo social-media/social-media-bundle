@@ -1,6 +1,6 @@
 # Social Media Bundle for Symfony2
 
-> Publishing/Unpublishing posts on social network can be a pain on the ass. Thats why I created an automated way of things. You can easily use this Social Media Bundle for Symfony2.
+> Publishing/Unpublishing posts on social network can be a pain in the ass. Thats why I created an automated way of things. You can easily use this Social Media Bundle for Symfony2.
 
 ## Examples
 
